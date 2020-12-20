@@ -5,3 +5,5 @@
 Somerhing new
 Somerhing new onemore
 And onew more new change
+
+Adding a line rebasing example
