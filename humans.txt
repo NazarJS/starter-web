@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Nazar  gmail  @1234
 
 # THANKS
 
