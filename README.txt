@@ -1,7 +1,6 @@
-1212new file
-23r23r
-
-
-Somerhing new
-Somerhing new onemore
-And onew more new change
+<<<<<<< Updated upstream
+Upu
+12
+=======
+uUpu
+>>>>>>> Stashed changes
